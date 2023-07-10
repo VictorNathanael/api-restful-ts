@@ -14,4 +14,4 @@ const movieSchema = new Schema(
     }
 );
 
-export const MoviewModel = model('Movie', movieSchema);
+export const MovieModel = model('Movie', movieSchema);
